@@ -11,4 +11,5 @@ Timecards
 Deductions
 ##ER-Diagram (Entity Relation -Diagram) for Payroll Management
 System:
-![PAYROLL](https://github.com/Sumukh2731/PAYROLL-MANAGEMENT-SYSTEM-BY-USING-SQL/assets/174996736/f5a81392-9433-441a-bcfd-418cbcbdf254)
+![PAYROLL](https://github.com/Sumukh2731/PAYROLL-MANAGEMENT-SYSTEM-BY-USING-SQL/assets/174996736/a315d754-f70d-4543-bcd4-ea57489504a4)
+
