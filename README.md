@@ -9,4 +9,4 @@ Departments
 Salaries
 Timecards
 Deductions
-How these tables/entities are related to each other is shown on next page through ER diagram, i.e., Entity Relationship Diagram.
+
